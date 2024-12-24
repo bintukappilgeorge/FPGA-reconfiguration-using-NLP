@@ -34,5 +34,5 @@ The system integrates the following components:
 ### Installation  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/<your-username>/<repository-name>.git
+   git clone https://github.com/bintukappilgeorge/FPGA-reconfiguration-using-NLP.git
 
